@@ -1,10 +1,9 @@
 // import Cards from './assets/Cards';
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { Card, Button, Row, Col } from "react-bootstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTwitter } from "@fortawesome/free-brands-svg-icons";
 import { faQuoteLeft } from "@fortawesome/free-solid-svg-icons";
-import axios from "axios";
 
 function App() {
   
